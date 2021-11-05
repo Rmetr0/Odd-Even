@@ -1,0 +1,42 @@
+﻿  main.cpp
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(32,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(64,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(64,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(76,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(83,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(156,59): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(158,60): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(159,64): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(164,49): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(165,55): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(167,48): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(168,49): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(169,54): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(170,54): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(242,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(250,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(256,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(466,45): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(465,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(474,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(503,45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(503,36): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(507,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(507,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(518,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(519,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(520,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(838,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(846,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(848,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(196): warning C4715: startScreen: значение возвращается не при всех путях выполнения
+C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\kusr-6sem-tp-zorin\main.cpp(416): warning C4715: choiceScreen: значение возвращается не при всех путях выполнения
+  kusr-6sem-tp-zorin.vcxproj -> C:\Users\Роман\source\repos\kusr-6sem-tp-zorin\x64\Debug\kusr-6sem-tp-zorin.exe
